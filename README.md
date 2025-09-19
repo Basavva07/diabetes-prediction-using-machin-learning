@@ -1,14 +1,23 @@
 Diabetes Prediction using Machine Learning
+
 This project predicts whether a person has diabetes based on medical diagnostic measurements. The model is built using the PIMA Indians Diabetes Dataset and implemented in Jupyter Notebook with Python.
 📊 Dataset
 The dataset contains features such as:
+
 •	Pregnancies
+
 •	Glucose Level
+
 •	Blood Pressure
+
 •	Skin Thickness
+
 •	Insulin
+
 •	BMI
+
 •	Diabetes Pedigree Function
+
 •	Age
 🚀 Steps in the Project
 1.	Data Preprocessing – Handling missing values, replacing zeros, scaling features.
